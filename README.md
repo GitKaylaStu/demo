@@ -1,2 +1,9 @@
-first commit is now being edited.
+#readme
 
+first commit. second commit
+git log
+
+#hobbies
+-languages
+-food
+-walking
